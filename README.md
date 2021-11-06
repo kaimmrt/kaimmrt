@@ -1,8 +1,9 @@
 - Hi, I’m Mert 👋 
 
-<img src="https://knsb.dk/wp-content/uploads/linkedin-logo.png" alt="drawing" width="200">
-<a href="https://www.linkedin.com/in/mert-kaim/"></a>
-</img>
+<a href="https://www.linkedin.com/in/mert-kaim/">
+<img src="https://knsb.dk/wp-content/uploads/linkedin-logo.png" alt="drawing" width="200"/>
+</a>
+
 
 
 <!---
