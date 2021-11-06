@@ -1,21 +1,8 @@
 
-
-
-
-<html>
-<head>
-<style>
-.display-flex {
-  display:'flex'
-}
-</style>
-</head>
-<body>
-          
 <div>
 - Hi, I’m Mert 👋 
 
-          <div class="display-flex">
+          <div style={{display:'flex'}}>
 
                     <div>
                                <a href="https://www.linkedin.com/in/mert-kaim/" target="_blank">
@@ -38,9 +25,3 @@
 
           
 
-</body>
-</html>
-<!---
-kaimmrt/kaimmrt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
