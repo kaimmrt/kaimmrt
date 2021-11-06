@@ -1,6 +1,6 @@
 - Hi, I’m Mert 👋 
 
-![linkedin](https://knsb.dk/wp-content/uploads/linkedin-logo.png)
+<img src="https://knsb.dk/wp-content/uploads/linkedin-logo.png" alt="drawing" width="200"/>
 
 
 <!---
