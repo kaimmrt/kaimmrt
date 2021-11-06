@@ -1,12 +1,12 @@
 - Hi, I’m Mert 👋 
 
 <div style={display:'flex'}>
-     <a href="https://www.linkedin.com/in/mert-kaim/" target="_blank"  >
+     <a href="https://www.linkedin.com/in/mert-kaim/" target="_blank">
           <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="drawing" width="60"/>
      </a>
  
      <a href="https://twitter.com/kaim_mrt" target="_blank">
-        <img src="https://cdn-icons.flaticon.com/png/512/4102/premium/4102952.png?token=exp=1636207493~hmac=c8061b6828ea970cb428fac7a5fbf4d6" alt="drawing"                 width="60"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/145/145812.png" alt="drawing" width="60"/>
      </a>
 </div>
 
