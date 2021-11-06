@@ -1,5 +1,6 @@
 - Hi, I’m Mert 👋 
 
+![linkedin](https://cdn.worldvectorlogo.com/logos/linkedin.svg)
 
 
 <!---
