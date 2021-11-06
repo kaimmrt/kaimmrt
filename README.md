@@ -1,7 +1,7 @@
 - Hi, I’m Mert 👋 
 
 <div style={display:'flex'}>
-  <a href="https://www.linkedin.com/in/mert-kaim/" target="_blank" style={marginRight:20}>
+  <a href="https://www.linkedin.com/in/mert-kaim/" target="_blank" style={marginRight:20px}>
 <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="drawing" width="100"/>
 </a>
 
